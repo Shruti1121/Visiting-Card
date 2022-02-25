@@ -1,0 +1,23 @@
+body{
+    max-width: 800px;
+    border: 1px solid black;
+    margin: 20px;
+}
+.A{
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: rgb(218, 222, 231);
+}
+.B{
+    padding: 50px ;
+    flex: content;
+}
+img{
+    border: 1px solid black;
+    width: 160px;
+    height: 150px;
+}
+.C{
+    padding: 30px ;
+    flex: content;
+}
